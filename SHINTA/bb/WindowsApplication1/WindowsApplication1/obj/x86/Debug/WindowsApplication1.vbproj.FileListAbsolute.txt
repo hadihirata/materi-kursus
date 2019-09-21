@@ -1,0 +1,93 @@
+C:\Users\alpin\Music\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\alpin\Music\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\alpin\Music\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\alpin\Music\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\alpin\Music\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\alpin\Music\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\alpin\Music\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\alpin\Music\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\alpin\Music\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\alpin\Music\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\alpin\Music\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\alpin\Music\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\alpin\Music\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\alpin\Music\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\alpin\Music\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\alpin\Music\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Loginm.resources
+C:\Users\Frashinta\Music\aaa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Frashinta\Music\aaa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Frashinta\Music\aaa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Frashinta\Music\aaa\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Frashinta\Music\aaa\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Frashinta\Music\aaa\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Frashinta\Music\aaa\WindowsApplication1\WindowsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\Frashinta\Music\aaa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Frashinta\Music\aaa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Frashinta\Music\aaa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Frashinta\Music\aaa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Frashinta\Music\aaa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Frashinta\Music\aaa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Frashinta\Music\aaa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Loginm.resources
+C:\Users\Frashinta\Music\aaa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Frashinta\Music\aaa\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\bb\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\bb\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\bb\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+D:\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+D:\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Loginm.resources
+D:\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\cakeshop\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\cakeshop\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\cakeshop\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\cakeshop\bb\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\cakeshop\bb\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\cakeshop\bb\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\cakeshop\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\cakeshop\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\cakeshop\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\cakeshop\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\cakeshop\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+D:\cakeshop\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+D:\cakeshop\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Loginm.resources
+D:\cakeshop\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\cakeshop\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+D:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+D:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Loginm.resources
+D:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+E:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+E:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+E:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+E:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+E:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Loginm.resources
+E:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\materi\SHINTA\bb\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml

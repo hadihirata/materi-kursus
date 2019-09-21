@@ -1,0 +1,81 @@
+D:\CLIENT SERVER\2\PengolahanNilaiSiswa\PengolahanNilaiSiswa\bin\Debug\PengolahanNilaiSiswa.exe
+D:\CLIENT SERVER\2\PengolahanNilaiSiswa\PengolahanNilaiSiswa\bin\Debug\PengolahanNilaiSiswa.pdb
+D:\CLIENT SERVER\2\PengolahanNilaiSiswa\PengolahanNilaiSiswa\bin\Debug\PengolahanNilaiSiswa.xml
+D:\CLIENT SERVER\2\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.DataGuru.resources
+D:\CLIENT SERVER\2\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.DataNilai.resources
+D:\CLIENT SERVER\2\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.Form1.resources
+D:\CLIENT SERVER\2\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.MataPelajaran.resources
+D:\CLIENT SERVER\2\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.MenuUtama.resources
+D:\CLIENT SERVER\2\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.Resources.resources
+D:\CLIENT SERVER\2\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.vbproj.GenerateResource.Cache
+D:\CLIENT SERVER\2\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.exe
+D:\CLIENT SERVER\2\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.xml
+D:\CLIENT SERVER\2\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.pdb
+D:\CLIENT SERVER\2\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.Login.resources
+D:\CLIENT SERVER\2 - Copy\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.exe
+D:\CLIENT SERVER\2 - Copy\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.xml
+D:\CLIENT SERVER\2 - Copy\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.pdb
+D:\CLIENT SERVER\2 - Copy\PengolahanNilaiSiswa\PengolahanNilaiSiswa\bin\Debug\PengolahanNilaiSiswa.exe
+D:\CLIENT SERVER\2 - Copy\PengolahanNilaiSiswa\PengolahanNilaiSiswa\bin\Debug\PengolahanNilaiSiswa.pdb
+D:\CLIENT SERVER\2 - Copy\PengolahanNilaiSiswa\PengolahanNilaiSiswa\bin\Debug\PengolahanNilaiSiswa.xml
+D:\CLIENT SERVER\2 - Copy\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.DataGuru.resources
+D:\CLIENT SERVER\2 - Copy\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.DataNilai.resources
+D:\CLIENT SERVER\2 - Copy\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.Form1.resources
+D:\CLIENT SERVER\2 - Copy\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.Login.resources
+D:\CLIENT SERVER\2 - Copy\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.MataPelajaran.resources
+D:\CLIENT SERVER\2 - Copy\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.MenuUtama.resources
+D:\CLIENT SERVER\2 - Copy\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.Resources.resources
+D:\CLIENT SERVER\2 - Copy\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.Prodi.resources
+D:\CLIENT SERVER\2 - Copy\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.vbproj.GenerateResource.Cache
+D:\STMIK NH JAMBI\Semester 6\Pemrograman jaringan komputer\Frashinta, Mawan, Eko, Mellisa, Herianto\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.exe
+D:\STMIK NH JAMBI\Semester 6\Pemrograman jaringan komputer\Frashinta, Mawan, Eko, Mellisa, Herianto\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.xml
+D:\STMIK NH JAMBI\Semester 6\Pemrograman jaringan komputer\Frashinta, Mawan, Eko, Mellisa, Herianto\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.pdb
+D:\STMIK NH JAMBI\Semester 6\Pemrograman jaringan komputer\Frashinta, Mawan, Eko, Mellisa, Herianto\PengolahanNilaiSiswa\PengolahanNilaiSiswa\bin\Debug\PengolahanNilaiSiswa.exe
+D:\STMIK NH JAMBI\Semester 6\Pemrograman jaringan komputer\Frashinta, Mawan, Eko, Mellisa, Herianto\PengolahanNilaiSiswa\PengolahanNilaiSiswa\bin\Debug\PengolahanNilaiSiswa.pdb
+D:\STMIK NH JAMBI\Semester 6\Pemrograman jaringan komputer\Frashinta, Mawan, Eko, Mellisa, Herianto\PengolahanNilaiSiswa\PengolahanNilaiSiswa\bin\Debug\PengolahanNilaiSiswa.xml
+D:\STMIK NH JAMBI\Semester 6\Pemrograman jaringan komputer\Frashinta, Mawan, Eko, Mellisa, Herianto\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.DataGuru.resources
+D:\STMIK NH JAMBI\Semester 6\Pemrograman jaringan komputer\Frashinta, Mawan, Eko, Mellisa, Herianto\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.DataNilai.resources
+D:\STMIK NH JAMBI\Semester 6\Pemrograman jaringan komputer\Frashinta, Mawan, Eko, Mellisa, Herianto\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.Form1.resources
+D:\STMIK NH JAMBI\Semester 6\Pemrograman jaringan komputer\Frashinta, Mawan, Eko, Mellisa, Herianto\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.Login.resources
+D:\STMIK NH JAMBI\Semester 6\Pemrograman jaringan komputer\Frashinta, Mawan, Eko, Mellisa, Herianto\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.MataPelajaran.resources
+D:\STMIK NH JAMBI\Semester 6\Pemrograman jaringan komputer\Frashinta, Mawan, Eko, Mellisa, Herianto\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.MenuUtama.resources
+D:\STMIK NH JAMBI\Semester 6\Pemrograman jaringan komputer\Frashinta, Mawan, Eko, Mellisa, Herianto\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.Resources.resources
+D:\STMIK NH JAMBI\Semester 6\Pemrograman jaringan komputer\Frashinta, Mawan, Eko, Mellisa, Herianto\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.Prodi.resources
+D:\STMIK NH JAMBI\Semester 6\Pemrograman jaringan komputer\Frashinta, Mawan, Eko, Mellisa, Herianto\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.vbproj.GenerateResource.Cache
+D:\materi\SHINTA\Frashinta, Mawan, Eko, Mellisa, Herianto\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.exe
+D:\materi\SHINTA\Frashinta, Mawan, Eko, Mellisa, Herianto\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.xml
+D:\materi\SHINTA\Frashinta, Mawan, Eko, Mellisa, Herianto\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.pdb
+D:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.exe
+D:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.xml
+D:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.pdb
+D:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\bin\Debug\PengolahanNilaiSiswa.exe
+D:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\bin\Debug\PengolahanNilaiSiswa.pdb
+D:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\bin\Debug\PengolahanNilaiSiswa.xml
+D:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.DataGuru.resources
+D:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.DataNilai.resources
+D:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.Form1.resources
+D:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.Login.resources
+D:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.MataPelajaran.resources
+D:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.MenuUtama.resources
+D:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.Resources.resources
+D:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.Prodi.resources
+D:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.vbproj.GenerateResource.Cache
+D:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\Interop.ADODB.dll
+D:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.vbproj.ResolveComReference.cache
+E:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\Interop.ADODB.dll
+E:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.vbproj.ResolveComReference.cache
+E:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.exe
+E:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.xml
+E:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.pdb
+E:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\bin\Debug\PengolahanNilaiSiswa.exe
+E:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\bin\Debug\PengolahanNilaiSiswa.pdb
+E:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\bin\Debug\PengolahanNilaiSiswa.xml
+E:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.DataGuru.resources
+E:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.DataNilai.resources
+E:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.Form1.resources
+E:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.Login.resources
+E:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.MataPelajaran.resources
+E:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.MenuUtama.resources
+E:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.Resources.resources
+E:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.Prodi.resources
+E:\materi\SHINTA\proyek 1\PengolahanNilaiSiswa\PengolahanNilaiSiswa\obj\x86\Debug\PengolahanNilaiSiswa.vbproj.GenerateResource.Cache

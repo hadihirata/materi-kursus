@@ -1,0 +1,76 @@
+Modul Microsoft Powerpoint Dasar
+
+Modul kursus komputer Microsoft Powerpoint level 1, atau level pemula ini ini dibuat khusus untuk para peserta kursus / siswa yang baru pertamakali menggunakan aplikasi Microsoft Powerpoint.
+
+1. Mengenal jendel kerja Microsoft Powerpoint
+1.1. Langkah masuk ke Program Aplikasi Microsoft Powerpoint
+1.2. Mengenal fungsi menu dan tool utama
+
+2. Membuat Disain Slide Powerpoint
+2.1. Pengaturan / tata letak
+2.2. Memilih bentuk disain
+2.3. Menggunakan Text Box
+2.4. Menggunakan WordArt
+2.5. Menyisipkan Image / CliptArt
+2.6. Membuat tabel
+2.6. Mengatur transisi
+
+3. Custom Animation
+3.1. Memilih animasi Entrance
+3.2. Memilih animasi Emphasis
+3.3. Memilih animasi Exit
+3.4. Pengaturan Efect Option dan Timeline
+3.4. Latihan membuat contoh animasi slide pening, processing dan closing
+
+4. Membuat Grafik & SmartArt
+4.1. Membuat grafik data untuk presentasi
+4.2. Membuat smart art
+
+5. Menambahkan Audio dan Video kedalam slide Powerpoint
+5.1. Menambahkan audio (musik, suara dan instrumen)
+5.2. Menambahkan video
+5.3. Latihan membuat slide video library
+
+Demikian 5 materi utama paket modul kursus komputer powerpoint dasar yang bisa anda gunakan untuk modul panduan belajar peserta kursus di lembaga kursus anda, atau peserta training anda. 5 materi tersebut bisa dibuat menjadi 6 sampai 8 pertemuan kursus, dan bisa dipersingkat menjadi 2 kali pertemuan training dengan durasi full day tentunya.
+
+Modul Microsoft Powerpoint Tingkat Mahir
+
+Setelah mengetahui dasar-dasar penggunaan menu dan tools pada aplikasi Microsoft Powerpoint, berikutnya pelajari materi-materi aplikasi Microsoft Powerpoint tingkat mahir, dengan susunan materi sebagai berikut
+
+1. Membuat Template Powerpoint Menggunakan Shapes
+1.1. Mengenal Shapes Untuk Pembuatan Template
+1.2. Memilih warna (Colo) yang tepat
+1.3. Memilih dan membuat icon button
+1.4. Membuat template opening
+1.5. Membuat template proses
+1.6. Membuat template closing
+
+2. Membuat Template Powerpoint Menggunakan Photosop
+2.1. Mengetahui ukuran template Powerpoint
+2.2. Merancang konsep template Powerpoint
+2.3. Membuat latar template
+2.4. Membuat command
+2.5. Membuat template custom untuk keperluan presentasi tertentu
+
+3. Membuat Slide Master
+3.1. Langkah-langkah masuk ke jendela kerja Slide Master
+3.2. Memasukan template dalam slide master
+3.3. Membuat menu utama
+3.4. Membuat hyperlink dan action
+
+4. Membuat Slide Pembelajaran Interaktif
+4.1. Membuat efek loading
+4.2. Membuat menu bertingkat glow
+4.3. Membuat Quiz
+4.4. Membuat Timer
+4.5. Trigger
+4.6. Membuat hitung Skor
+
+5. Membuat Video Kreatif di Powerpoint
+5.1. Mengenal aplikasi pendukung pembuatan Video di Powerpoint
+5.2. Membuat bumpers
+5.3. Membuat video iklan
+5.3. Memilih audio dan memasukannya dalam video
+5.4. Convert file PPT ke Video / Move
+
+Demikian 5 materi modul kursus powerpoint tingkat mahir, materi-materi tersebut hanya bisa dipelajari oleh mereka yang sudah memiliki kemampuan dasar Microsoft Powerpoint seperti pada modul powerpoint tingkat dasar diatas.

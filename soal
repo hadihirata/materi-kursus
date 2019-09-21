@@ -1,0 +1,52 @@
+OAL MENGINSTALASI SISTEM OPERASI GUI dan CLI
+
+1.    Apa yang dimaksud dengan system operasi?
+2.    Apa yang dimaksud dengan  Troubleshooting?
+3.    Apa yang dimaksud dengan Software?
+4.    Apa yang dimaksud dengan User friendly?
+5.    Apa yang dimaksud dengan Booting?
+6.    Apa yang dimaksud dengan Bootable CD?
+7.    Apa yang dimaksud dengan Setup?
+8.    Apa yang dimaksud dengan GUI?
+9.    Apa yang dimaksud dengan CLI?           
+10.  Sistem komputer pada dasarnya terdiri dari empat komponen utama, sebutkan !
+11.  Sistem operasi mempunyai tiga sasaran utama, sebut dan jelaskan !
+12.  Sistem operasi mengalami perkembangan yang sangat pesat, dan dibagi kedalam empat generasi, sebutkan dan jelaskan dari perkembanganan tersebut !
+13.  Sebutkan Jenis-jenis System Operasi GUI dan CLI (masing-masing 3 contoh)!
+14.  Hal-hal apa saja yang perlu dipersiapkan sebelum instalasi, sehingga tidak menyebabkan kesalahan/error selama proses instalasi? Jelaskan secara singkat!
+15.  Apa yang dimaksud dengan serial number dalam proses instalasi!
+
+1.      Apa yang dimaksud dengan menginstal?
+2. Mengapa Sistem operasi dipasang terlebih dahulu dibanding perangkat lunak yang lain?
+3. Gambarkan bagan tahapan-tahapan instalasi!
+4.    Apa yang dimaksud dengan Booting?
+5. Sebutkan perbedaan-perbedaan antara sistem operasi CLI dan sistem operasi GUI!
+
+Apa yang dimaksud dengan Sistem operasi?
+
+Sebutkan jenis-jenis sistem operasi berdasarkan layananan (interface) terhadap pengguna, beserta contohnya!
+
+Hal-hal apa saja yang perlu dipersiapkan sebelum instalasi, sehingga tidak menyebabkan kesalahan/error selama proses instalasi? Jelaskan secara singkat!
+
+Bagaimana cara melakukan booting dengan disket DOS?
+
+Bagaimana cara menjalankan setup/sistyem operasi GUI melaui DOS
+
+Apa bedanya scandisk yang otomatis dijalankan sewaktu proses setup, dibandingkan dengan scandisk yang kita jalankan sendiri di luar proses setup?
+Apa yang dimaksud dengan serial number dalam proses instalasi?
+Dalamsistemkomputerdikenalistilahdriver/adapter.Dalamhalini,apakahyangdimaksuddengandrivertersebut?
+Apayangdimaksuddenganshourtcut?
+Suatusaatkomputeryangkitaoperasikan “hang”,tidakdapatmenerimaperintah-perintahyangkitaberikan.Apayangharusdilakukan?
+Jelaskantentangfasilitasdefragyangdimilikiolehsistemoperasiwindows
+Sebutkanbagian-bagiandarisistemoperasilinux!
+Apayangdimaksuddengankernellinux?dansebutkanbagian-bagiandarikernellinuxtersebut!
+SebutkanbeberapakelebihanLinuxdibandingkansistemoperasilainya!
+Hal-halapasajakahyangperludiperhatikan/dipersiapkansebelumprosesinstalasidilakukan?
+ApakahYaSTitu?
+Apakahpartisiswapitu?
+Jikapadasaatinstalasi,kitapilihpembuatanpartisidanfilesystemotomatis,partisiapasajakahyangpastiakanmuncul?Berapaukuranyamasing-masingpartisi?
+ApakahyangdimaksuddenganLILOdalamprosesinstalasilinux?Jelaskan!
+Bagaimanakahcarauntukmencariketerangandarisuatuutilitas(perintah)dalamlinuxsecaracepat?Berikabcontihnya
+Apakahyangdimaksuddenganoperasi-operasifile?Sebutkancontohnya(3operasi)diantaranyadanjelaskan
+Apakahinstruksi “tar” itu?
+Bagaimanakahsebaiknyakitamematikankomputeryangpunyasistemoperasilinux (Text)

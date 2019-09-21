@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <conio.h>
+#include <iostream.h>
+
+main()
+{
+   char nama_siswa[10];
+   clrscr();
+   cout<<"contoh input C++"<<endl;
+   cout<<"masukan nama : ";
+   cin>>nama_siswa;
+   cout<<"contoh output C++"<<endl;
+   cout<<"siswa yang bernama "<<nama_siswa;
+   getch();
+}
